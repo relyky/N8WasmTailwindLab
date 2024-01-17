@@ -6,7 +6,7 @@
 * [Building beautiful Blazor apps with Tailwind CSS | .NET Conf 2023](https://www.youtube.com/watch?v=QIdedo8iI4Y)
 * [Blazor & Tailwind CSS 🔥 Quick Start Guide](https://www.youtube.com/watch?v=tj4dNN2jQt0) 
 
-# npm 指令
+# 終端機 \ npm 指令
 ```bash
 ## init
 > npx tailwindcss init
